@@ -1,2 +1,2 @@
 # spellchecker
-A JAVA spellchecker with suggestions based on levenshtein distance of 1.
+Spellchecker with suggestions based on the Levenshtein Distance Algorithm!
