@@ -1,2 +1,2 @@
 # spellchecker
-Spellchecker with suggestions based on the Levenshtein Distance Algorithm!
+Spellchecker with suggestions based on the Levenshtein Distance Algorithm
